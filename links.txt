@@ -1,1 +1,2 @@
 http://angrytools.com/android/button/ - עיצוב כפתורים
+https://stackoverflow.com/questions/16419627/making-an-activity-appear-only-once-when-the-app-is-started - איך לגרום למסך הרשמה להופיע פעם אחת
