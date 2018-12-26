@@ -3,3 +3,4 @@ https://stackoverflow.com/questions/16419627/making-an-activity-appear-only-once
 https://stackoverflow.com/questions/53332471/checking-if-a-document-exists-in-a-firestore-collection - עבודה עם פיירסטור
 https://developer.android.com/guide/topics/security/cryptography - hashing
 https://developer.android.com/training/basics/firstapp/starting-activity#java - החדרת מידע לאקטיביטי
+https://rakibul.net/fb-realtime-db-python - ספריית גישה לפיירבייס בפייתון
